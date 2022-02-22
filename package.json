@@ -1,0 +1,21 @@
+{
+  "name": "20220226-soft-skill-present",
+  "version": "0.0.1",
+  "description": "A presentation slide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "reveal-md README.md",
+    "build": "reveal-md README.md --print slides.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRemjx01/20220226-soft-skill-present.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRemjx01/20220226-soft-skill-present/issues"
+  },
+  "homepage": "https://github.com/TheRemjx01/20220226-soft-skill-present#readme"
+}
