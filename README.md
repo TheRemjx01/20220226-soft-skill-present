@@ -1,3 +1,8 @@
+---
+title: CV, interview & how to land your dream job
+theme: solarized
+---
+
 # CV, interview & how to land your dream job
 
 ---
